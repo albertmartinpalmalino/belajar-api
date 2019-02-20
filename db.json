@@ -1,0 +1,123 @@
+{
+"Mahasiswa" : [{
+  "id": 1,
+  "first_name": "Stillmann Considine",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "first_name": "Darsie Marton",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "first_name": "Felicio Gunderson",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "first_name": "Caroline Bawden",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "first_name": "Lynnet Cadagan",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "first_name": "Durward Sink",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "first_name": "Norbert Labern",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "first_name": "Tamarra Oultram",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "first_name": "Lanna Lossman",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "first_name": "Genevra Sergeant",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "first_name": "Bradney Hedgecock",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "first_name": "Ezekiel Dilley",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "first_name": "Stanislas Gianninotti",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "first_name": "Al Haggarth",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "first_name": "Randene Edgecombe",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "first_name": "Fidole Rickis",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "first_name": "Erin Bocke",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "first_name": "Weston Leonarde",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "first_name": "Domenic Marlon",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "first_name": "Davis McDermott-Row",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "first_name": "Jasun Fleckney",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "first_name": "Mindy Pagden",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "first_name": "Almire Andrieu",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "first_name": "Jeanette Boddy",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "first_name": "Merrili Ollier",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "first_name": "Lucien Lorinez",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "first_name": "Knox Woakes",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "first_name": "Moises Loftus",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "first_name": "Lissa Keenlayside",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "first_name": "Cherry Linkie",
+  "gender": "Female"
+}]
+}
